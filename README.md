@@ -37,8 +37,9 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ommixixo&show_icons=true&hide_title=true&count_private=true&theme=default&title_color=1F3864&icon_color=1F3864&text_color=333333&border_color=BFBFBF" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ommixixo&layout=compact&hide_title=true&theme=default&title_color=1F3864&text_color=333333&border_color=BFBFBF" />
+![Followers](https://img.shields.io/github/followers/Ommixixo?style=for-the-badge&label=Followers&color=1F3864)
+![Public Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Ommixixo&label=Repos&query=public_repos&style=for-the-badge&color=1F3864)
+![Last Commit](https://img.shields.io/github/last-commit/Ommixixo/php_microsite?style=for-the-badge&label=Last%20Commit&color=1F3864)
 
 </div>
 
